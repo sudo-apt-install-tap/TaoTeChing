@@ -230,7 +230,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Tao Te Ching R.kicad_pro",
+    "filename": "Tao Te Ching RIGHT.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -269,7 +269,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Tao Te Ching R.step",
+      "step": "Tao Te Ching RIGHT.step",
       "svg": "",
       "vrml": ""
     },
