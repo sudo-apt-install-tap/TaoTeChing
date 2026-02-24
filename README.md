@@ -94,7 +94,12 @@ I will use KMK
 
 ### Total USD: ~ 95 USD
 
+## CAD SOURCE FILES AVAILABLE!
+
+[ONSHAPE](https://cad.onshape.com/documents/3a64b1ece82f2d5ea6875226/w/4aeac85fe30a56c6319ae754/e/e0c4af6436b0f9ae25f54182?renderMode=0&uiState=699d1a8bab682d7d1a6430e0)
+
 ---
 
 ## License
 Open source. Build it, modify it, improve it.
+
