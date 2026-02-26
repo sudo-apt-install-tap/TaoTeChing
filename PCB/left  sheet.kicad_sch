@@ -2494,7 +2494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 60.96 92.71 0)
 			(effects
 				(font
@@ -2562,7 +2562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 60.96 52.07 0)
 			(effects
 				(font
@@ -2630,7 +2630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 106.68 113.03 0)
 			(effects
 				(font
@@ -2938,7 +2938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 121.92 52.07 0)
 			(effects
 				(font
@@ -3006,7 +3006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 76.2 92.71 0)
 			(effects
 				(font
@@ -3074,7 +3074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 91.44 92.71 0)
 			(effects
 				(font
@@ -3142,7 +3142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 121.92 113.03 0)
 			(effects
 				(font
@@ -3210,7 +3210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 121.92 72.39 0)
 			(effects
 				(font
@@ -3366,7 +3366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 106.68 92.71 0)
 			(effects
 				(font
@@ -3538,7 +3538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 76.2 72.39 0)
 			(effects
 				(font
@@ -3606,7 +3606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 91.44 72.39 0)
 			(effects
 				(font
@@ -3674,7 +3674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 76.2 113.03 0)
 			(effects
 				(font
@@ -3742,7 +3742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 106.68 72.39 0)
 			(effects
 				(font
@@ -3986,7 +3986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 45.72 113.03 0)
 			(effects
 				(font
@@ -4206,7 +4206,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 121.92 92.71 0)
 			(effects
 				(font
@@ -4626,7 +4626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 91.44 52.07 0)
 			(effects
 				(font
@@ -4870,7 +4870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 45.72 92.71 0)
 			(effects
 				(font
@@ -4938,7 +4938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 60.96 72.39 0)
 			(effects
 				(font
@@ -5094,7 +5094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 106.68 52.07 0)
 			(effects
 				(font
@@ -5226,7 +5226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 76.2 52.07 0)
 			(effects
 				(font
@@ -5382,7 +5382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 60.96 113.03 0)
 			(effects
 				(font
@@ -5978,7 +5978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 45.72 72.39 0)
 			(effects
 				(font
@@ -6310,7 +6310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 91.44 113.03 0)
 			(effects
 				(font
@@ -6378,7 +6378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Taps Keyboard shit:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "KEYS:SW_Hotswap_Kailh_MX"
 			(at 45.72 52.07 0)
 			(effects
 				(font
