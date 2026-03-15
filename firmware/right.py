@@ -1,33 +1,61 @@
 import board
+
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
-from kmk.scanners import DiodeOrientation
 from kmk.modules.layers import Layers
+from kmk.scanners import DiodeOrientation
 
 keyboard = KMKKeyboard()
-keyboard.modules.append(Layers())
 
-# Pin mapping for XIAO RP2040 (Right)
-keyboard.row_pins = (board.D0, board.D1, board.D2, board.D3)
-keyboard.col_pins = (board.D4, board.D5, board.D6, board.D10, board.D9, board.D8)
-keyboard.diode_orientation = DiodeOrientation.ROW2COL
+layers = Layers()
+keyboard.modules.append(layers)
 
-# 4x6 matrix - Right side only
+keyboard.row_pins = (
+    board.D0,
+    board.D1,
+    board.D2,
+    board.D3
+)
+
+keyboard.col_pins = (
+    board.D4,
+    board.D5,
+    board.D6,
+    board.D7,
+    board.D8,
+    board.D9
+)
+
+keyboard.diode_orientation = DiodeOrientation.COL2ROW
+# KEYMAP
+keyboard.debug_enabled = True
+
 keyboard.keymap = [
-    [
-        KC.Y,    KC.U,    KC.I,    KC.O,    KC.P,    KC.BSPC,
-        KC.H,    KC.J,    KC.K,    KC.L,    KC.SCLN, KC.QUOT,
-        KC.N,    KC.M,    KC.COMM, KC.DOT,  KC.SLSH, KC.ENT,
-        KC.NO,   KC.SPC,  KC.MO(1),KC.RALT, KC.RGUI, KC.RCTL,
-    ],
-    [
-        # Layer 1 (Example: Navigation)
-        KC.N6,   KC.N7,   KC.N8,   KC.N9,   KC.N0,   KC.DEL,
-        KC.TRNS, KC.LEFT, KC.DOWN, KC.UP,   KC.RGHT, KC.TRNS,
-        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
-        KC.NO,   KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
-    ]
+# Layer 0
+[
+KC.Y, KC.U, KC.I, KC.O, KC.P, KC.BSPC,
+KC.H, KC.J, KC.K, KC.L, KC.SCLN, KC.QUOT,
+KC.N, KC.M, KC.COMMA, KC.DOT, KC.SLSH, KC.ENT,
+KC.SPC, KC.MO(1), KC.MO(2), KC.GRV, KC.MINS, KC.NO
+],
+# Layer 1 (symbols/navigation)
+[
+KC.N5, KC.N6, KC.N7, KC.N8, KC.N9, KC.K0,
+KC.LEFT, KC.DOWN, KC.UP, KC.RIGHT, KC.NO, KC.NO,
+KC.NO, KC.NO, KC.NO, KC.NO, KC.NO, KC.NO,
+KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS
+],
+
+# Layer 2 (function keys)
+[
+KC.F1, KC.F2, KC.F3, KC.F4, KC.F5, KC.F6,
+KC.NO, KC.NO, KC.NO, KC.NO, KC.NO, KC.NO,
+KC.NO, KC.NO, KC.NO, KC.NO, KC.NO, KC.NO,
+KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS
 ]
 
-if __name__ == '__main__':
+]
+
+
+if __name__ == "__main__":
     keyboard.go()
