@@ -27,11 +27,11 @@ See renders and PCB files for exact spacing and geometry.
 
 ## Index:
 - [Build Guide](https://github.com/sudo-apt-install-tap/TaoTeChing/blob/main/Build%20guide.md)
+- [Build Images](https://github.com/sudo-apt-install-tap/TaoTeChing/blob/main/README.md#build-images)
 - [Images](Images)
 - [PCB](PCB)
 - [Fimware](firmware)
 - [CAD](CAD)
-
 ---
 
 ## Hardware
@@ -91,11 +91,16 @@ I will use KMK
 
 ---
 
-## Build Images
+## Build Images And Videos
+<div align="center">
 
-<img alt="image" src="https://cdn.hackclub.com/019cf53d-37dd-7831-8407-cf00031eed43/image.png" />
-<img alt="image" src="https://cdn.hackclub.com/019cf53e-43bd-790e-94f3-0fbb71df2b02/image.png" />
-<img alt="image" src="https://cdn.hackclub.com/019cf53e-4588-7a2f-bf4a-4b5bff9947c5/image.png" />
+<img alt="image" height="350" src="https://cdn.hackclub.com/019cf53d-37dd-7831-8407-cf00031eed43/image.png" /> <br><br>
+<img alt="image" height="350" src="https://cdn.hackclub.com/019cf53e-43bd-790e-94f3-0fbb71df2b02/image.png" /> <br><br>
+<img alt="image" height="350" src="https://cdn.hackclub.com/019cf53e-4588-7a2f-bf4a-4b5bff9947c5/image.png" /> <br><br>
+
+[TAO TE CHING DEMO](https://www.youtube.com/shorts/A5UJ3Mnc8bE)
+
+</div>
 
 ---
 
