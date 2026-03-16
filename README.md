@@ -25,6 +25,15 @@ See renders and PCB files for exact spacing and geometry.
 
 ---
 
+## Index:
+- [Build Guide](https://github.com/sudo-apt-install-tap/TaoTeChing/blob/main/Build%20guide.md)
+- [Images](Images)
+- [PCB](PCB)
+- [Fimware](firmware)
+- [CAD](CAD)
+
+---
+
 ## Hardware
 - MX-compatible switches  
 - Per-key diodes (matrix)  
