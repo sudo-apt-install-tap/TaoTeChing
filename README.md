@@ -82,10 +82,20 @@ I will use KMK
 ---
 
 ## Project Status
-- Layout: finalized  
-- PCB: routed and rendered  
-- Prototypes: awaiting funding  
-- Revisions: ongoing
+- [x] Layout: finalized  
+- [x] PCB: routed and rendered  
+- [x] Prototypes: Done!
+- [x] Revisions: Done!
+
+### DONE!!
+
+---
+
+## Build Images
+
+<img alt="image" src="https://cdn.hackclub.com/019cf53d-37dd-7831-8407-cf00031eed43/image.png" />
+<img alt="image" src="https://cdn.hackclub.com/019cf53e-43bd-790e-94f3-0fbb71df2b02/image.png" />
+<img alt="image" src="https://cdn.hackclub.com/019cf53e-4588-7a2f-bf4a-4b5bff9947c5/image.png" />
 
 ---
 
