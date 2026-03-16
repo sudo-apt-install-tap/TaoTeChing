@@ -28,10 +28,12 @@ See renders and PCB files for exact spacing and geometry.
 ## Index:
 - [Build Guide](https://github.com/sudo-apt-install-tap/TaoTeChing/blob/main/Build%20guide.md)
 - [Build Images](https://github.com/sudo-apt-install-tap/TaoTeChing/blob/main/README.md#build-images)
+- [Journal](tao-te-ching-journal.md)
 - [Images](Images)
 - [PCB](PCB)
 - [Fimware](firmware)
 - [CAD](CAD)
+  
 ---
 
 ## Hardware
