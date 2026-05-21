@@ -1,10 +1,9 @@
 ---
-
 title: "Tao Te Ching"
 author: "Tap"
 description: "A open-source split keyboard made for ergonomics!! Made to feel minimalist. This is a ortholinear keyboard."
 created_at: "2026-02-05"
-------------------------
+---
 
 # February 5: Made The Schematic + Keyboard Layout
 
@@ -12,19 +11,19 @@ created_at: "2026-02-05"
 
 So this is a split keeb with wireless capabilities but i will not be using wireless mode in this. I am kinda following the guide. It follows a ortholiner staggered layout! I have already arranged all the parts but i will do the wiring tomorrow
 
-## SCHEMATIC:
+## SCHEMATIC
 
-![Left Sheet](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3NjcsInB1ciI6ImJsb2JfaWQifX0=--27faf28d4722199255e46b72093b173e8fadb7d8/Left%20Sheet.png)
+![Left Sheet](Images/Left%20Sheet.png)
 
-![Right Sheet](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3NjgsInB1ciI6ImJsb2JfaWQifX0=--feee9f6bd4aaf92778adf07de06dc3851f734835/Right%20Sheet.png)
+![Right Sheet](Images/Right%20Sheet.png)
 
-## PCB Layout:
+## PCB Layout
 
-![KiCAD Layout](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3NjksInB1ciI6ImJsb2JfaWQifX0=--970b8172c98beead13f93b93678403f460ed4042/KiCAD%20Layout.png)
+![KiCAD Layout](Images/KiCAD%20Layout.png)
 
-## KiCAD Render:
+## KiCAD Render
 
-![KiCAD Render](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3NzAsInB1ciI6ImJsb2JfaWQifX0=--7578ee8c3550ab10b822f056345a363f84a5ddd3/KiCAD%20Render.png)
+![KiCAD Render](Images/KiCAD%20Render.png)
 
 **Total time spent: 4.5 hours**
 
@@ -32,9 +31,7 @@ So this is a split keeb with wireless capabilities but i will not be using wirel
 
 Did the wiring for the PCB was really simple too! Also this is the first project in which I haven't used ground pour as there was no external electronics which require power.
 
-## Images:
-
-![Wiring Picture](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTkwOTMsInB1ciI6ImJsb2JfaWQifX0=--97855349d029429dbec61d8350b8cd555f88ecb8/Wiring%20Picture.png)
+![Wiring Picture](Images/Wiring%20Picture.png)
 
 **Total time spent: 1.5 hours**
 
@@ -42,21 +39,19 @@ Did the wiring for the PCB was really simple too! Also this is the first project
 
 I had to make the case twice as the first time i did it i realized that both sides were not mirrored properly.
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDMyLCJwdXIiOiJibG9iX2lkIn19--ebb7655c70670ede673d7e242eef5dbfdf47820c/image.png)
+![CAD Rended Expoloded](Images/CAD%20Rended%20Expoloded.png)
 
 This meant that I had to retrace every lines on the dxf used for making the inner and outer parts of the case. But finally it all came together and I think it looks very rad!
 
-![CAD Rended Expoloded](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDMzLCJwdXIiOiJibG9iX2lkIn19--4b3c7f173d21ad28a1f38d8145290bdd760271e7/CAD%20Rended%20Expoloded.png)
+![CAD Rended](Images/CAD%20Rended.png)
 
-![CAD Rended](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDM0LCJwdXIiOiJibG9iX2lkIn19--64f119db15783a0c1c81cfd00133d523b38390b0/CAD%20Rended.png)
+![Left Case](Images/Left%20Case.png)
 
-![Left Case](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDM1LCJwdXIiOiJibG9iX2lkIn19--ff963cd338d53aab3ac44ed1a488e2f26a4cce0e/Left%20Case.png)
+![Left Plate](Images/Left%20Plate.png)
 
-![Left Plate](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDM2LCJwdXIiOiJibG9iX2lkIn19--1a9fa18f76362e716656a6752f02362e5baf6452/Left%20Plate.png)
+![Right Case](Images/Right%20Case.png)
 
-![Right Case](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDM3LCJwdXIiOiJibG9iX2lkIn19--83b39d746e930ee1f4648999fe68e76e57e4da26/Right%20Case.png)
-
-![Right Plate](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDM4LCJwdXIiOiJibG9iX2lkIn19--776c2a6df40bb7db96f463da9a057a51e1978868/Right%20Plate.png)
+![Right Plate](Images/Right%20Plate.png)
 
 **Total time spent: 5 hours**
 
@@ -64,96 +59,80 @@ This meant that I had to retrace every lines on the dxf used for making the inne
 
 I added some images to the PCB today. This was very fun to do as it marks the end of most project for me! So I just used the image conversion tool in KiCAD to do it.
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDQ2LCJwdXIiOiJibG9iX2lkIn19--d7538ab0148bea2fe1305dbe7abe860ffe80afd5/image.png)
+![Tux](Images/Tux.png)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMDQ3LCJwdXIiOiJibG9iX2lkIn19--3020a907a966067740c7e7ab4889564c06da1b6d/image.png)
+![YingYang](Images/YingYang.png)
 
 **Total time spent: 0.5 hours**
 
 # February 10: Wrote the readme and organized all cart images!
 
-*Time spent: 1.0h*
-
 So this was the last step in the completion of this project. Honestly I loved every part of this project and it has made me learn soo many new things. Here is my finalized GitHub page!
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxNTA3LCJwdXIiOiJibG9iX2lkIn19--0855669b8d607683848d7f3e20e692e7dec0dc20/image.png)
+![Git](Images/Git.png)
 
 **Total time spent: 1.0 hours**
 
 # February 23: Added HotSwap Sockets
 
-*Time spent: 3.0h*
-
 So I saw that most splits had hotswap sockets. So i added them. I think this will improve its functionality. It was time taking but worth it. Well more soldering to me!!
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5ODcxLCJwdXIiOiJibG9iX2lkIn19--0d511169765ec35dcc9efdb0106ee8239d617947/image.png)
+![Build](Images/Build.png)
 
 **Total time spent: 3.0 hours**
 
 # February 26: Ordered All The Parts!
 
-*Time spent: 2.0h*
-
 So I ran into some problems.. the MCU I used [XIAORP2040](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) was out of stock 😕. I had to use the [SeeedStudio XIAO RP2350](https://robu.in/product/seeedstudio-xiao-rp2350-raspberry-pi-rp2350/). Except this everything has gone smoothly. Also I am getting my prints but my printer is out of stock of light grey PLA. So ill wait a bit! But Yeah thats all!!
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTExNTQyLCJwdXIiOiJibG9iX2lkIn19--976ca3a80d95307710738da2f656305a5945d1fc/image.png)
+![PCB](Images/CART/PCB.png)
 
 **Total time spent: 2.0 hours**
 
 # March 12: Fixed Case Height!
 
-*Time spent: 1.0h*
-
 So the case wall were too shallow and thus I was unable to fit the plate in the case, So i redesigned both sides and I will send it for printing now ig! Hope this fits!!!
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE5OTM0LCJwdXIiOiJibG9iX2lkIn19--cb7d7cd454fb607264eabad9186ac59b2ac88a3d/image.png)
+![Left Case](Images/Left%20Case.png)
 
 **Total time spent: 1.0 hours**
 
 # March 14: Got all the items!!
 
-*Time spent: 1.0h*
-
 So yeah I just received all my PCB which means I now have all the items req to assemble it! I had to pay about 5usd worth of customs so yeah yikes but yeah except that everything is perfect!! will get new case prints on Monday!
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIwNjgyLCJwdXIiOiJibG9iX2lkIn19--a01d595732461a425d5a42a5f8947595a8841458/image.png)
+![PCB](Images/CART/PCB.png)
 
 **Total time spent: 1.0 hours**
 
 # March 15: Soldered the PCB.
 
-*Time spent: 6.0h*
-
 ## 14/03/26
 
 So yeah I got around to soldering my PCB finally. It was really time taking due to the amount of SMD diodes in each side. But I ran out of solder so I had to go to the local store and get some. And yeah except that everything was intuitive. Here are some pics:
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxNDUzLCJwdXIiOiJibG9iX2lkIn19--03c80fb704defcb4ed1d72d73e4da80671f7180e/image.png)
+![Build](Images/Build.png)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxNDU0LCJwdXIiOiJibG9iX2lkIn19--6ec53b9d1283e480b048d7e459c8b526383f981c/image.png)
+![Wiring Picture](Images/Wiring%20Picture.png)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxNDU1LCJwdXIiOiJibG9iX2lkIn19--d50371c5e4e60c3ca7fed4df78bfb21c3bbde8b6/image.png)
+![KiCAD Render](Images/KiCAD%20Render.png)
 
 **Total time spent: 6.0 hours**
 
 # March 16 11 AM: Redid the code!!
 
-*Time spent: 4.0h*
-
 ## 15/03/26
 
 So I had to redo the code as i found out it wasnt working! I also had to troubleshoot as the right side wasnt working, fyi I just pushed the mcu into its place as I thought it would still work as usual spoiler: it didnt I realized this after like 4hrs of pulling my hair out :> .
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyMTczLCJwdXIiOiJibG9iX2lkIn19--5e90fdcb30ecf8990bdfd4257b0e5b2fa4898993/image.png)
+![Build](Images/Build.png)
 
 **Total time spent: 4.0 hours**
 
 # March 16 3 PM: Revised the readme and added build guide
 
-*Time spent: 2.0h*
-
 So I added an index to allow users to click through the readme and other files. Also I added the build guide to help others build it ( which no one is going to do but anyways).
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyMjM0LCJwdXIiOiJibG9iX2lkIn19--c0ffb49c63fa036bb6817987ff4778580386ad46/image.png)
+![Git](Images/Git.png)
 
 **Total time spent: 2.0 hours**
