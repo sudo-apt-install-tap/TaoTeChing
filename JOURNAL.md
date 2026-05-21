@@ -121,8 +121,6 @@ So yeah I got around to soldering my PCB finally. It was really time taking due 
 
 # March 16 11 AM: Redid the code!!
 
-## 15/03/26
-
 So I had to redo the code as i found out it wasnt working! I also had to troubleshoot as the right side wasnt working, fyi I just pushed the mcu into its place as I thought it would still work as usual spoiler: it didnt I realized this after like 4hrs of pulling my hair out :> .
 
 ![Build](Images/Build.png)
