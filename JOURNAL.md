@@ -7,8 +7,6 @@ created_at: "2026-02-05"
 
 # February 5: Made The Schematic + Keyboard Layout
 
-## Journal 05.02.26
-
 So this is a split keeb with wireless capabilities but i will not be using wireless mode in this. I am kinda following the guide. It follows a ortholiner staggered layout! I have already arranged all the parts but i will do the wiring tomorrow
 
 ## SCHEMATIC
