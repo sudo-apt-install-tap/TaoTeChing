@@ -119,7 +119,7 @@ So yeah I got around to soldering my PCB finally. It was really time taking due 
 
 **Total time spent: 5hour 30minutes**
 
-# March 16 11 AM: Redid the code!!
+# March 16: Redid the code!!
 
 So I had to redo the code as i found out it wasnt working! I also had to troubleshoot as the right side wasnt working, fyi I just pushed the mcu into its place as I thought it would still work as usual spoiler: it didnt I realized this after like 4hrs of pulling my hair out :> .
 
@@ -127,7 +127,7 @@ So I had to redo the code as i found out it wasnt working! I also had to trouble
 
 **Total time spent: 4hour**
 
-# March 16 3 PM: Revised the readme and added build guide
+# March 16: Revised the readme and added build guide
 
 So I added an index to allow users to click through the readme and other files. Also I added the build guide to help others build it ( which no one is going to do but anyways).
 
