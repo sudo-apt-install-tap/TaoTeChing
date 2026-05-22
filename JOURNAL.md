@@ -25,7 +25,7 @@ So this is a split keeb with wireless capabilities but i will not be using wirel
 
 ![KiCAD Render](Images/KiCAD%20Render.png)
 
-**Total time spent: 4.5 hours**
+**Total time spent: 4hour 30minutes**
 
 # February 6: Routed The PCB
 
@@ -33,7 +33,7 @@ Did the wiring for the PCB was really simple too! Also this is the first project
 
 ![Wiring Picture](Images/Wiring%20Picture.png)
 
-**Total time spent: 1.5 hours**
+**Total time spent: 1hour 30minutes**
 
 # February 9: Made The Case
 
@@ -53,7 +53,7 @@ This meant that I had to retrace every lines on the dxf used for making the inne
 
 ![Right Plate](Images/Right%20Plate.png)
 
-**Total time spent: 5 hours**
+**Total time spent: 5hour**
 
 # February 9: Added art to the silkscreen
 
@@ -63,7 +63,7 @@ I added some images to the PCB today. This was very fun to do as it marks the en
 
 ![YingYang](Images/YingYang.png)
 
-**Total time spent: 0.5 hours**
+**Total time spent: 30minutes**
 
 # February 10: Wrote the readme and organized all cart images!
 
@@ -71,7 +71,7 @@ So this was the last step in the completion of this project. Honestly I loved ev
 
 ![Git](Images/Git.png)
 
-**Total time spent: 1.0 hours**
+**Total time spent: 1hour**
 
 # February 23: Added HotSwap Sockets
 
@@ -79,7 +79,7 @@ So I saw that most splits had hotswap sockets. So i added them. I think this wil
 
 ![Build](Images/Build.png)
 
-**Total time spent: 3.0 hours**
+**Total time spent: 3hour**
 
 # February 26: Ordered All The Parts!
 
@@ -87,7 +87,7 @@ So I ran into some problems.. the MCU I used [XIAORP2040](https://robu.in/produc
 
 ![PCB](Images/CART/PCB.png)
 
-**Total time spent: 2.0 hours**
+**Total time spent: 2hour**
 
 # March 12: Fixed Case Height!
 
@@ -95,7 +95,7 @@ So the case wall were too shallow and thus I was unable to fit the plate in the 
 
 ![Left Case](Images/Left%20Case.png)
 
-**Total time spent: 1.0 hours**
+**Total time spent: 1hour**
 
 # March 14: Got all the items!!
 
@@ -103,7 +103,7 @@ So yeah I just received all my PCB which means I now have all the items req to a
 
 ![PCB](Images/CART/PCB.png)
 
-**Total time spent: 1.0 hours**
+**Total time spent: 1hour 30minutes**
 
 # March 15: Soldered the PCB.
 
@@ -117,7 +117,7 @@ So yeah I got around to soldering my PCB finally. It was really time taking due 
 
 ![KiCAD Render](Images/KiCAD%20Render.png)
 
-**Total time spent: 6.0 hours**
+**Total time spent: 5hour 30minutes**
 
 # March 16 11 AM: Redid the code!!
 
@@ -125,7 +125,7 @@ So I had to redo the code as i found out it wasnt working! I also had to trouble
 
 ![Build](Images/Build.png)
 
-**Total time spent: 4.0 hours**
+**Total time spent: 4hour**
 
 # March 16 3 PM: Revised the readme and added build guide
 
@@ -133,4 +133,4 @@ So I added an index to allow users to click through the readme and other files. 
 
 ![Git](Images/Git.png)
 
-**Total time spent: 2.0 hours**
+**Total time spent: 2hour**
