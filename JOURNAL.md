@@ -121,7 +121,9 @@ So yeah I got around to soldering my PCB finally. It was really time taking due 
 
 So I had to redo the code as i found out it wasnt working! I also had to troubleshoot as the right side wasnt working, fyi I just pushed the mcu into its place as I thought it would still work as usual spoiler: it didnt I realized this after like 4hrs of pulling my hair out :> .
 
-![Build](Images/Build.png)
+<img width="1044" height="518" alt="image" src="https://github.com/user-attachments/assets/82397c51-f60b-4668-ada6-baf273d88668" />
+<img width="207" height="76" alt="image" src="https://github.com/user-attachments/assets/2343f919-42b4-41e7-ac24-31a1a1684aaa" />
+
 
 **Total time spent: 4hour**
 
