@@ -9,17 +9,17 @@ created_at: "2026-02-05"
 
 So this is a split keeb with wireless capabilities but i will not be using wireless mode in this. I am kinda following the guide. It follows a ortholiner staggered layout! I have already arranged all the parts but i will do the wiring tomorrow
 
-## SCHEMATIC
+- SCHEMATIC
 
 ![Left Sheet](Images/Left%20Sheet.png)
 
 ![Right Sheet](Images/Right%20Sheet.png)
 
-## PCB Layout
+- PCB Layout
 
 ![KiCAD Layout](Images/KiCAD%20Layout.png)
 
-## KiCAD Render
+- KiCAD Render
 
 ![KiCAD Render](Images/KiCAD%20Render.png)
 
@@ -105,15 +105,14 @@ So yeah I just received all my PCB which means I now have all the items req to a
 
 # March 15: Soldered the PCB.
 
-## 14/03/26
-
 So yeah I got around to soldering my PCB finally. It was really time taking due to the amount of SMD diodes in each side. But I ran out of solder so I had to go to the local store and get some. And yeah except that everything was intuitive. Here are some pics:
 
-![Build](Images/Build.png)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/79528ef2-53ad-4973-a827-714f2e825418" />
 
-![Wiring Picture](Images/Wiring%20Picture.png)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/cdbd87e3-a7ca-44bb-96c6-b8f5de727805" />
 
-![KiCAD Render](Images/KiCAD%20Render.png)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/ed40d9f5-777f-46e8-8bb7-a299c8fb522a" />
+
 
 **Total time spent: 5hour 30minutes**
 
