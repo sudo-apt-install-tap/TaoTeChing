@@ -67,7 +67,9 @@ I added some images to the PCB today. This was very fun to do as it marks the en
 
 So this was the last step in the completion of this project. Honestly I loved every part of this project and it has made me learn soo many new things. Here is my finalized GitHub page!
 
-![Git](Images/Git.png)
+<img width="1015" height="683" alt="image" src="https://github.com/user-attachments/assets/34f291d2-c49a-4b2c-b0ad-67190c264ed3" />
+<img width="1366" height="683" alt="image" src="https://github.com/user-attachments/assets/e4367540-940d-4411-8dcc-c749af2bf322" />
+
 
 **Total time spent: 1hour**
 
