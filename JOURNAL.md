@@ -130,6 +130,8 @@ So I had to redo the code as i found out it wasnt working! I also had to trouble
 
 So I added an index to allow users to click through the readme and other files. Also I added the build guide to help others build it ( which no one is going to do but anyways).
 
-![Git](Images/Git.png)
+<img width="1015" height="330" alt="image" src="https://github.com/user-attachments/assets/36f13849-9d10-4c4d-a3a4-3e65dfdf865d" />
+<img width="1015" height="567" alt="image" src="https://github.com/user-attachments/assets/0a327fc2-7ef4-4453-b929-5286d81d4e8e" />
+
 
 **Total time spent: 2hour**
