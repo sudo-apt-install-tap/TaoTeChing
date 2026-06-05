@@ -124,6 +124,10 @@ So I had to redo the code as i found out it wasnt working! I also had to trouble
 
 <img width="1044" height="518" alt="image" src="https://github.com/user-attachments/assets/82397c51-f60b-4668-ada6-baf273d88668" />
 <img width="207" height="76" alt="image" src="https://github.com/user-attachments/assets/2343f919-42b4-41e7-ac24-31a1a1684aaa" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cde622ab-8a3b-4181-8e2f-b3bbb987ef6a" /><br><br>
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3400da7a-984b-4591-b6b8-6f56b935e827" /><br><br>
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2637381e-e5f3-4436-a90c-36a8bdb26362" /><br><br>
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef88f043-0b6b-44d7-996f-439b9255fb63" /><br><br>
 
 
 **Total time spent: 4hour**
