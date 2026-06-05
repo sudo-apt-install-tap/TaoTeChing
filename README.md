@@ -99,6 +99,11 @@ I will use KMK
 <img alt="image" height="350" src="https://cdn.hackclub.com/019cf53d-37dd-7831-8407-cf00031eed43/image.png" /> <br><br>
 <img alt="image" height="350" src="https://cdn.hackclub.com/019cf53e-43bd-790e-94f3-0fbb71df2b02/image.png" /> <br><br>
 <img alt="image" height="350" src="https://cdn.hackclub.com/019cf53e-4588-7a2f-bf4a-4b5bff9947c5/image.png" /> <br><br>
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cde622ab-8a3b-4181-8e2f-b3bbb987ef6a" /><br><br>
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3400da7a-984b-4591-b6b8-6f56b935e827" /><br><br>
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2637381e-e5f3-4436-a90c-36a8bdb26362" /><br><br>
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef88f043-0b6b-44d7-996f-439b9255fb63" /><br><br>
+
 
 [TAO TE CHING DEMO](https://www.youtube.com/shorts/A5UJ3Mnc8bE)
 
