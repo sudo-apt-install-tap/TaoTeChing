@@ -111,19 +111,19 @@ I will use KMK
 
 ---
 
-## Bill Of Materials
+# Bill of Materials (BOM)
 
-### Parts
-- Keycaps: 1400 INR
-- PCB: 3726 INR  
-- Switches: 1275 INR
-- Diodes: 102 INR
-- MCU (XIAO RP2040): 1,236 INR
-- Shipping of Case(3DP) + Plate(3DP): 500 INR
+| Item | Description | Cost (INR) |
+|------|-------------|----------:|
+| Keycaps | Full keycap set | ₹1,400 |
+| PCB | Custom PCB fabrication | ₹3,726 |
+| Switches | Mechanical keyboard switches | ₹1,275 |
+| Diodes | Per-key matrix diodes | ₹102 |
+| MCU | Seeed Studio XIAO RP2040 | ₹1,236 |
+| Case & Plate | 3D printed case and plate (shipping included) | ₹500 |
+| **Total** |  | **₹8,239** |
 
-### Total INR: 8,239
-
-### Total USD: ~ 95 USD
+> **Project Cost:** ₹8,239 (~$95 USD)
 
 ## CAD SOURCE FILES AVAILABLE!
 
