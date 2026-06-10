@@ -7,7 +7,11 @@ created_at: "2026-02-05"
 
 # February 5: Made The Schematic + Keyboard Layout
 
-So this is a split keeb with wireless capabilities but i will not be using wireless mode in this. I am kinda following the guide. It follows a ortholiner staggered layout! I have already arranged all the parts but i will do the wiring tomorrow
+Made the schematic and finalized the split keeb layout. It’s ortholinear-staggered with wireless support but I’ll be using it wired only. Followed a guide loosely. Parts are placed, wiring left for tomorrow. It’s finally starting to feel like something id use!
+
+The xiao nrf52 is great as it has battery charging in built and also has BLE for longer run time and is compact and has enough GPIO. Also I went with standard mx keys because parts are easily availabe.
+
+> NOTE: later I moved to XIAO rp2040 which is equally as good just without the RF and BLE capabilities.
 
 - SCHEMATIC
 
@@ -27,7 +31,7 @@ So this is a split keeb with wireless capabilities but i will not be using wirel
 
 # February 6: Routed The PCB
 
-Did the wiring for the PCB was really simple too! Also this is the first project in which I haven't used ground pour as there was no external electronics which require power.
+Finished routing the PCB today and it honestly went smoother than I expected. Just wired everything up cleanly and it all came together without much headache. Also first project where I didn’t use a ground pour since there weren’t any external power-hungry parts involved, which felt kinda unusual but neat in a way. I do really like that I did not use neopixles as that woulve made me cry while routing.
 
 ![Wiring Picture](Images/Wiring%20Picture.png)
 
@@ -35,11 +39,13 @@ Did the wiring for the PCB was really simple too! Also this is the first project
 
 # February 9: Made The Case
 
-I had to make the case twice as the first time i did it i realized that both sides were not mirrored properly.
+I had to make the case twice because the first version turned out wrong. I realized both sides weren’t properly mirrored.
 
 ![CAD Rended Expoloded](Images/CAD%20Rended%20Expoloded.png)
 
-This meant that I had to retrace every lines on the dxf used for making the inner and outer parts of the case. But finally it all came together and I think it looks very rad!
+That meant going back and retracing every line in the DXF used for both the inner and outer parts of the case. A bit tedious, but honestly kind of satisfying in a “fix it properly or suffer later” way.
+
+But in the end it all came together, and I think it looks pretty rad.
 
 ![CAD Rended](Images/CAD%20Rended.png)
 
@@ -55,7 +61,9 @@ This meant that I had to retrace every lines on the dxf used for making the inne
 
 # February 9: Added art to the silkscreen
 
-I added some images to the PCB today. This was very fun to do as it marks the end of most project for me! So I just used the image conversion tool in KiCAD to do it.
+Added a bit of personality to the PCB today by putting artwork on the silkscreen. This part was honestly really fun. Feels like the “final touch” stage where the board stops being just a project and starts feeling like a finished thing that I can use.
+
+Used KiCad’s image conversion tool to get it done, which made the process pretty smooth.
 
 ![Tux](Images/Tux.png)
 
@@ -65,7 +73,11 @@ I added some images to the PCB today. This was very fun to do as it marks the en
 
 # February 10: Wrote the readme and organized all cart images!
 
-So this was the last step in the completion of this project. Honestly I loved every part of this project and it has made me learn soo many new things. Here is my finalized GitHub page!
+Finished up the project today by writing the README and dusting up all the images for the GitHub page. This was basically the final polish step.
+
+Honestly, I enjoyed every part of this build, schematic to case to silkscreen. It taught me a lot more than I expected going in.
+
+Here’s the final GitHub page:
 
 <img width="1015" height="683" alt="image" src="https://github.com/user-attachments/assets/34f291d2-c49a-4b2c-b0ad-67190c264ed3" />
 <img width="1366" height="683" alt="image" src="https://github.com/user-attachments/assets/e4367540-940d-4411-8dcc-c749af2bf322" />
@@ -75,7 +87,9 @@ So this was the last step in the completion of this project. Honestly I loved ev
 
 # February 23: Added HotSwap Sockets
 
-So I saw that most splits had hotswap sockets. So i added them. I think this will improve its functionality. It was time taking but worth it. Well more soldering to me!!
+Saw that most split keyboards use hotswap sockets, so I decided to add them too. Should make the board a lot more flexible and easier to experiment with switches later.
+
+It took some time (and patience), but it was worth it. More soldering, but in a good way.
 
 ![Build](Images/Build.png)
 
@@ -83,7 +97,11 @@ So I saw that most splits had hotswap sockets. So i added them. I think this wil
 
 # February 26: Ordered All The Parts!
 
-So I ran into some problems.. the MCU I used [XIAORP2040](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) was out of stock 😕. I had to use the [SeeedStudio XIAO RP2350](https://robu.in/product/seeedstudio-xiao-rp2350-raspberry-pi-rp2350/). Except this everything has gone smoothly. Also I am getting my prints but my printer is out of stock of light grey PLA. So ill wait a bit! But Yeah thats all!!
+Ran into a small hiccup today — the MCU I originally planned to use, the [XIAO RP2040](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/), was out of stock 😕. So I switched to the Seeed Studio [XIAO RP2350](https://robu.in/product/seeedstudio-xiao-rp2350-raspberry-pi-rp2350/) instead. Slight change, thanks to the XIAO form factor.
+
+Everything else went pretty smoothly though. I’ve also ordered the prints, but my printer is out of light grey PLA, so I’ll have to wait a bit before those come in.
+
+Other than that… it’s basically all set. Just waiting on parts now.
 
 ![PCB](Images/CART/PCB.png)
 
@@ -91,7 +109,9 @@ So I ran into some problems.. the MCU I used [XIAORP2040](https://robu.in/produc
 
 # March 12: Fixed Case Height!
 
-So the case wall were too shallow and thus I was unable to fit the plate in the case, So i redesigned both sides and I will send it for printing now ig! Hope this fits!!!
+The case walls were too shallow, so I couldn’t fit the plate inside properly. Had to go back and redesign both sides to fix the height issue.
+
+A bit annoying, but honestly expected at least one hassle like this. I think I will print this new one.
 
 ![Left Case](Images/Left%20Case.png)
 
@@ -99,7 +119,11 @@ So the case wall were too shallow and thus I was unable to fit the plate in the 
 
 # March 14: Got all the items!!
 
-So yeah I just received all my PCB which means I now have all the items req to assemble it! I had to pay about 5usd worth of customs so yeah yikes but yeah except that everything is perfect!! will get new case prints on Monday!
+Finally received all the PCBs, which means I’ve got everything needed to start assembly now. Had to pay around $5 in customs -kinda annoying, but not too bad in the grand scheme of things (I once had to give 25usd worth of customs for a devboard that I designed and that did not work.
+
+Everything else looks *near* perfect though.
+
+The only downside is that due to print restrictions I can only get one case print, so the newer revised case design won’t really be usable. Bit of a bummer.
 
 ![PCB](Images/CART/PCB.png)
 
@@ -107,7 +131,15 @@ So yeah I just received all my PCB which means I now have all the items req to a
 
 # March 15: Soldered the PCB.
 
-So yeah I got around to soldering my PCB finally. It was really time taking due to the amount of SMD diodes in each side. But I ran out of solder so I had to go to the local store and get some. And yeah except that everything was intuitive. Here are some pics:
+So yeah, I finally got around to soldering the PCB. It took a while because of the number of SMD diodes on each half, and they really slow you down when you’re trying to stay precise. I also ran out of solder midway, so I had to step out and grab more from a local store before continuing.
+
+The diodes were the most time-consuming part each one had to be placed with tweezers, tacked on one side first, then carefully reflowed on the other to keep everything aligned and clean. Slow process, but it kept things neat.
+
+After that I moved on to the hotswap sockets. I aligned each one on its footprint, tinned a single corner pin to lock it in place, and then went back to solder the remaining pins once everything was sitting properly. Much faster than the diodes, but still required attention to avoid any tilt or misalignment.
+
+Except for the solder shortage pause, everything else felt pretty smooth and intuitive once I got into the rhythm.
+
+Here are some pics:
 
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/79528ef2-53ad-4973-a827-714f2e825418" />
 
@@ -118,9 +150,15 @@ So yeah I got around to soldering my PCB finally. It was really time taking due 
 
 **Total time spent: 5hour 30minutes**
 
-# March 16: Redid the code!!
+# March 16: Redid the code!! and possibly becoming bald?
 
-So I had to redo the code as i found out it wasnt working! I also had to troubleshoot as the right side wasnt working, fyi I just pushed the mcu into its place as I thought it would still work as usual spoiler: it didnt I realized this after like 4hrs of pulling my hair out :> .
+So I had to redo the code today after realizing the previous version just wasn’t working properly. On top of that, I had to troubleshoot the right side since it wasn’t responding at all.
+
+Turns out the issue was way simpler (and more embarrassing) than expected I had literally just pushed the MCU into its place thinking it would work fine like that… spoiler: it didn’t. Took me around 4 hours of confusion and “why is this not working” before I figured that out. :>
+
+> ripped my old mouse pad while doing so
+
+Once that was done, I rewrote and cleaned up the KMK script and started to work on the features and stuff. VERY Painful lesson, but a useful one.
 
 <img width="1044" height="518" alt="image" src="https://github.com/user-attachments/assets/82397c51-f60b-4668-ada6-baf273d88668" />
 <img width="207" height="76" alt="image" src="https://github.com/user-attachments/assets/2343f919-42b4-41e7-ac24-31a1a1684aaa" />
@@ -134,7 +172,11 @@ So I had to redo the code as i found out it wasnt working! I also had to trouble
 
 # March 16: Revised the readme and added build guide
 
-So I added an index to allow users to click through the readme and other files. Also I added the build guide to help others build it ( which no one is going to do but anyways).
+Cleaned up the README today and added a proper index so you can actually click through sections and files without scrolling forever. Makes the whole repo feel way more structured and usable.
+
+Also added a full build guide mostly for the looks and future-me, because realistically not many people are going to build this exact thing… but it felt right to include anyway.
+
+Now the project feels less like 'a bunch of files' and more like an actual documented build. Which is good!
 
 <img width="1015" height="330" alt="image" src="https://github.com/user-attachments/assets/36f13849-9d10-4c4d-a3a4-3e65dfdf865d" />
 <img width="1015" height="567" alt="image" src="https://github.com/user-attachments/assets/0a327fc2-7ef4-4453-b929-5286d81d4e8e" />
