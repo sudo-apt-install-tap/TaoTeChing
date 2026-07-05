@@ -162,6 +162,8 @@ This wasnt really a firmware issue but a skill issue!
 
 Once that was done, I rewrote and cleaned up the KMK script and started to work on the features and stuff. VERY Painful lesson, but a useful one.
 
+Also chatgpt just provided me with the template for the project and I just had to change the pins and stuff!
+
 <img width="1044" height="518" alt="image" src="https://github.com/user-attachments/assets/82397c51-f60b-4668-ada6-baf273d88668" />
 <img width="207" height="76" alt="image" src="https://github.com/user-attachments/assets/2343f919-42b4-41e7-ac24-31a1a1684aaa" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cde622ab-8a3b-4181-8e2f-b3bbb987ef6a" /><br><br>
