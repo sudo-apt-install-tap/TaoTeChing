@@ -150,11 +150,13 @@ Here are some pics:
 
 **Total time spent: 5hour 30minutes**
 
-# March 16: Redid the code!! and possibly becoming bald?
+# March 16: Redid the code(had no importance)!! and possibly becoming bald? Soldering the XIAO!
 
 So I had to redo the code today after realizing the previous version just wasn’t working properly. On top of that, I had to troubleshoot the right side since it wasn’t responding at all.
 
 Turns out the issue was way simpler (and more embarrassing) than expected I had literally just pushed the MCU into its place thinking it would work fine like that… spoiler: it didn’t. Took me around 4 hours of confusion and “why is this not working” before I figured that out. :>
+
+This wasnt really a firmware issue but a skill issue!
 
 > ripped my old mouse pad while doing so
 
